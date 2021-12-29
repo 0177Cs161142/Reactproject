@@ -1,0 +1,30 @@
+.pageNotFound{
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+
+}
+.form-field{
+  justify-content: center;
+  text-align: center;
+  
+}
+
+input{
+  width: 50%;
+  margin: 20%;
+  padding-bottom: 10;
+}
+.AddUser{
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 5%;
+  margin-top: 2%;
+}
+
